@@ -44,8 +44,18 @@ A full-stack No-Code/Low-Code web application that enables users to visually cre
 ## 📋 Prerequisites
 
 - Docker and Docker Compose
-- OpenAI API key
-- SerpAPI key (for web search feature)
+- **OpenAI API key** - Get $5 free credit at https://platform.openai.com/api-keys
+- **SerpAPI key** (optional) - Get 100 free searches/month at https://serpapi.com
+
+> **💡 New to these APIs?** See [API_KEYS_GUIDE.md](API_KEYS_GUIDE.md) for detailed instructions on getting free API keys and alternative options.
+
+### 🆓 Free Tier Information
+
+- **OpenAI**: $5 free credit for new accounts (valid 3 months) - enough for full testing
+- **SerpAPI**: 100 free searches/month - sufficient for demos
+- **Estimated cost for testing**: ~$0.30 (well within free tier)
+
+See detailed pricing and alternatives in [API_KEYS_GUIDE.md](API_KEYS_GUIDE.md)
 
 ## 🚀 Quick Start
 
